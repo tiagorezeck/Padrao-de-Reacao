@@ -1,0 +1,6 @@
+{
+  "name": "COMET — Reação à Frustração e Padrões Aprendidos",
+  "description": "Instrumento original de avaliação de padrões de reação a contrariedades, críticas e frustrações, com mapeamento de gatilhos, reflexão sobre respostas aprendidas e plano de desenvolvimento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

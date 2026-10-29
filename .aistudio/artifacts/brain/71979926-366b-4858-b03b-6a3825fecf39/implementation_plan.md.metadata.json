@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano técnico e conceitual para o instrumento original 'COMET — Reação à Frustração e Padrões Aprendidos'. Detalha a arquitetura do questionário de 31 situações, modelo de pontuação das 8 dimensões, matriz de pesos, etapa reflexiva de padrões aprendidos, relatório em 8 seções, persistência em LocalStorage com exportação/importação JSON e plano de testes automatizados.",
+  "updatedAt":  "2026-10-29T19:10:28.444540360Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
